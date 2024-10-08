@@ -4,6 +4,7 @@
     "version": "0.0.0",
     "type": "module",
     "homepage": "https://VaishnaviShimpi.github.io/shoppingcart",
+    
     "scripts": {
       "dev": "vite",
       "build": "vite build",
